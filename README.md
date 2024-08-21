@@ -1,6 +1,6 @@
 # Compiler Toolkit
 
-This is an implementation of a basic compiler toolkit based on a own programming languages named ```LYA``` made for a school project
+This is an implementation of a basic compiler toolkit based on a own programming languages named ```UGLYA``` made for a school project
 
 ## Features
  - Lexical analyzer.
